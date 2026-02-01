@@ -1,0 +1,22 @@
+User info:
+John Doe <john.doe@gmail.com>
+Contact: (250) 788-123-456 or 250-788-654-321
+Website: https://www.example.org/profile?id=123
+
+Payment info:
+Visa: 4539 1488 0343 6467
+MasterCard: 5555-4444-3333-1111
+
+Social:
+#FrontendDev #100DaysOfCode
+
+Times logged:
+09:30 AM, 14:45, 23:59
+
+Prices:
+$19.99, $1,234.50, €99.00
+
+Malicious attempts:
+<script>alert('hack')</script>
+john@@gmail..com
+DROP TABLE users;

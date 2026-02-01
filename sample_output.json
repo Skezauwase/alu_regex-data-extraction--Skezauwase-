@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "extractedAt": "2026-02-01T10:58:33.675Z",
+    "notes": "Malicious and unsafe inputs have been filtered and masked."
+  },
+  "data": {
+    "emails": [
+      "j***@gmail.com"
+    ],
+    "urls": [
+      "https://www.example.org/profile?id=123"
+    ],
+    "phones": [
+      "(250) 788-123",
+      "250-788-654-321"
+    ],
+    "credit_cards": [
+      "4539 **** **** 6467",
+      "5555 **** **** 1111"
+    ],
+    "times": [
+      "09:30 AM",
+      "14:45",
+      "23:59"
+    ],
+    "hashtags": [
+      "#FrontendDev",
+      "#100DaysOfCode"
+    ]
+  },
+  "counts": {
+    "emails": 1,
+    "urls": 1,
+    "phones": 2,
+    "credit_cards": 2,
+    "times": 3,
+    "hashtags": 2
+  }
+}
