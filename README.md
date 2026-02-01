@@ -1,4 +1,4 @@
-# ALU Regex Data Extraction ✅
+# ALU Regex Data Extraction 
 
 **Short description:**
 A small Node.js utility that reads a plain text file (`sample_input.txt`), extracts common data types (emails, URLs, phone numbers, credit cards, times, hashtags) using regular expressions, filters out unsafe/malicious input, masks sensitive fields, and writes a clean JSON summary to `sample_output.json`.
@@ -106,4 +106,4 @@ Given `sample_input.txt` (included), the script:
 
 ---
 
-If you'd like, I can also add a `USAGE.md` with more examples or add unit tests for each extractor (Jest/Mocha). 💡
+If you'd like, I can also add a `USAGE.md` with more examples or add unit tests for each extractor (Jest/Mocha). 
